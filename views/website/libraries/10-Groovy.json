@@ -1,7 +1,7 @@
 {
   "name": "Groovy",
   "uniqueClass": "groovy",
-  "image": "/img/24.svg",
+  "image": "/jsonwebtoken.github.io/website/img/24.svg",
   "bgColor": "rgb(99, 152, 170)",
   "libs": [
     {

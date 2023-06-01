@@ -1,7 +1,7 @@
 {
   "name": "Ruby",
   "uniqueClass": "ruby",
-  "image": "/img/7.svg",
+  "image": "/jsonwebtoken.github.io/website/img/7.svg",
   "bgColor": "rgb(170, 17, 0)",
   "libs": [
     {

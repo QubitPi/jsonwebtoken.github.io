@@ -1,7 +1,7 @@
 {
   "name": "Delphi",
   "uniqueClass": "delphi",
-  "image": "/img/17.svg",
+  "image": "/jsonwebtoken.github.io/website/img/17.svg",
   "bgColor": "rgb(227, 28, 35)",
   "libs": [
     {

@@ -1,10 +1,10 @@
 extends layout
-    
+
 block content
   section.banner-jwt
     .container
       a.logo(href='/')
-        img(src='/img/pic_logo.svg', alt='JWT logo mark - Token Based Authentication')
+        img(src='/jsonwebtoken.github.io/website/img/pic_logo.svg', alt='JWT logo mark - Token Based Authentication')
 
       p
         | JSON Web Tokens are an open, industry standard&nbsp;
@@ -12,8 +12,8 @@ block content
         |  method for representing claims securely between two parties.
       p JWT.IO allows you to decode, verify and generate JWT.
 
-      a.btn.btn-lg(href="/introduction") Learn more about jwt
-      a.btn.btn-lg.btn-ghost(href="/libraries") See jwt libraries
+      a.btn.btn-lg(href="/jsonwebtoken.github.io/website/introduction") Learn more about jwt
+      a.btn.btn-lg.btn-ghost(href="/jsonwebtoken.github.io/website/libraries") See jwt libraries
 
   include token-editor.pug
 
@@ -23,4 +23,4 @@ block content
 
   include counter.pug
 
-  script(src='/js/index.js')
+  script(src='/jsonwebtoken.github.io/website/js/index.js')

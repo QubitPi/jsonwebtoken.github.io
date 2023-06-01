@@ -1,7 +1,7 @@
 {
   "name": ".NET",
   "uniqueClass": "net",
-  "image": "/img/1.svg",
+  "image": "/jsonwebtoken.github.io/website/img/1.svg",
   "bgColor": "rgb(42, 168, 229)",
   "libs": [
     {

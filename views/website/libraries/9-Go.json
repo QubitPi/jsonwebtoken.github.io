@@ -1,7 +1,7 @@
 {
   "name": "Go",
   "uniqueClass": "go",
-  "image": "/img/8.svg",
+  "image": "/jsonwebtoken.github.io/website/img/8.svg",
   "bgColor": "rgb(71, 182, 196)",
   "libs": [
     {
@@ -28,7 +28,7 @@
         "ps256": false,
         "ps384": false,
         "ps512": false,
-        "eddsa": true        
+        "eddsa": true
       },
       "authorUrl": "https://github.com/golang-jwt",
       "authorName": "golang-jwt",

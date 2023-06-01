@@ -1,7 +1,7 @@
 {
   "name": "Python",
   "uniqueClass": "python",
-  "image": "/img/4.svg",
+  "image": "/jsonwebtoken.github.io/website/img/4.svg",
   "bgColor": "rgb(55, 126, 240)",
   "libs": [
     {

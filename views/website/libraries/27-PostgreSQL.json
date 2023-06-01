@@ -1,7 +1,7 @@
 {
   "name": "PostgreSQL",
   "uniqueClass": "postgresql",
-  "image": "/img/25.svg",
+  "image": "/jsonwebtoken.github.io/website/img/25.svg",
   "bgColor": "rgb(51, 103, 145)",
   "libs": [
     {

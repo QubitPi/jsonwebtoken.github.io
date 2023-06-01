@@ -1,7 +1,7 @@
 {
   "name": "Ada",
   "uniqueClass": "ada",
-  "image": "/img/28.svg",
+  "image": "/jsonwebtoken.github.io/website/img/28.svg",
   "bgColor": "#634421",
   "libs": [
     {

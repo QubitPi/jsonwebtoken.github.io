@@ -1,7 +1,7 @@
 {
   "name": "Node.js",
   "uniqueClass": "node",
-  "image": "/img/2.svg",
+  "image": "/jsonwebtoken.github.io/website/img/2.svg",
   "bgColor": "rgb(138, 194, 68)",
   "libs": [
     {

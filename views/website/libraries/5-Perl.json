@@ -1,7 +1,7 @@
 {
   "name": "Perl",
   "uniqueClass": "perl",
-  "image": "/img/19.svg",
+  "image": "/jsonwebtoken.github.io/website/img/19.svg",
   "bgColor": "rgb(59, 71, 122)",
   "libs": [
     {

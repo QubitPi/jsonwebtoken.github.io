@@ -1,7 +1,7 @@
 {
     "name": "PowerShell",
     "uniqueClass": "powershell",
-    "image": "/img/32.svg",
+    "image": "/jsonwebtoken.github.io/website/img/32.svg",
     "bgColor": "rgb(25,40,57)",
     "libs": [
       {
@@ -68,4 +68,4 @@
       }
     ]
   }
-  
+

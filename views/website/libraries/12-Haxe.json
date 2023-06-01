@@ -1,7 +1,7 @@
 {
   "name": "Haxe",
   "uniqueClass": "haxe",
-  "image": "/img/23.svg",
+  "image": "/jsonwebtoken.github.io/website/img/23.svg",
   "bgColor": "rgb(234, 130, 32)",
   "libs": [
     {

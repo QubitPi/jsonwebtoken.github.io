@@ -1,7 +1,7 @@
 {
   "name": "kdb+/Q",
   "uniqueClass": "q",
-  "image": "/img/q.svg",
+  "image": "/jsonwebtoken.github.io/website/img/q.svg",
   "bgColor": "rgb(102, 102, 102)",
   "libs": [
     {

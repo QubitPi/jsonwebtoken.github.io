@@ -1,7 +1,7 @@
 {
   "name": "Deno",
   "uniqueClass": "deno",
-  "image": "/img/33.png",
+  "image": "/jsonwebtoken.github.io/website/img/33.png",
   "bgColor": "rgb(0, 0, 0)",
   "libs": [
     {

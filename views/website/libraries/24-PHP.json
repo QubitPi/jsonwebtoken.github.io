@@ -1,7 +1,7 @@
 {
   "name": "PHP",
   "uniqueClass": "php",
-  "image": "/img/5.svg",
+  "image": "/jsonwebtoken.github.io/website/img/5.svg",
   "bgColor": "rgb(119, 123, 180)",
   "libs": [
     {

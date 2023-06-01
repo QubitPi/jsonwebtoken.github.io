@@ -1,7 +1,7 @@
 {
   "name": "Haskell",
   "uniqueClass": "haskell",
-  "image": "/img/9.svg",
+  "image": "/jsonwebtoken.github.io/website/img/9.svg",
   "bgColor": "rgb(102, 102, 102)",
   "libs": [
     {
