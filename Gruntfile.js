@@ -262,7 +262,7 @@ module.exports = (grunt) => {
         "webpack:extensionDev",
     ]);
 
-    grunt.registerTask("build", ["build-website", "build-extension"]);
+    grunt.registerTask("build", ["build-website", "build-extension", "pug:website"]);
 
     grunt.registerTask("build-dev", ["build-website-dev", "build-extension-dev"]);
 
