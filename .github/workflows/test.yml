@@ -2,6 +2,8 @@ name: CI
 
 on:
   push:
+    branches:
+      - master
     paths-ignore:
       - "views/website/libraries/*.json"
   pull_request:
