@@ -29,7 +29,7 @@ jobs:
           node-version: '14'
       - run: npm install
       - run: npm test
-      - name: Generate site content
+      - name: Generate site content (for both website and debugger)
         run: ./node_modules/.bin/grunt build
       - name: Deploy site to GitHub Pages
         if: github.ref == 'refs/heads/master'
