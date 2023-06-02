@@ -1,7 +1,7 @@
 {
   "name": "Lua",
   "uniqueClass": "lua",
-  "image": "/img/11.svg",
+  "image": "/jsonwebtoken.github.io/website/img/11.svg",
   "bgColor": "rgb(0, 0, 128)",
   "libs": [
     {

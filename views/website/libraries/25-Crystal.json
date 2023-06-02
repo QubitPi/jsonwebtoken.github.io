@@ -1,7 +1,7 @@
 {
   "name": "Crystal",
   "uniqueClass": "crystal",
-  "image": "/img/21.svg",
+  "image": "/jsonwebtoken.github.io/website/img/21.svg",
   "bgColor": "rgb(176, 176, 176)",
   "libs": [
     {

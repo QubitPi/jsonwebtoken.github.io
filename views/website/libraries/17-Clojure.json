@@ -1,7 +1,7 @@
 {
   "name": "Clojure",
   "uniqueClass": "clojure",
-  "image": "/img/13.svg",
+  "image": "/jsonwebtoken.github.io/website/img/13.svg",
   "bgColor": "rgb(88, 129, 216)",
   "libs": [
     {

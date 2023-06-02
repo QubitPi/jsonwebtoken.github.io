@@ -2,11 +2,18 @@ name: CI
 
 on:
   push:
+    branches:
+      - master
     paths-ignore:
       - "views/website/libraries/*.json"
   pull_request:
     paths-ignore:
       - "views/website/libraries/*.json"
+
+
+env:
+  USER: QubitPi
+  EMAIL: jack20220723@gmail.com
 
 jobs:
   test:
@@ -22,3 +29,14 @@ jobs:
           node-version: '14'
       - run: npm install
       - run: npm test
+      - name: Generate site content (for both website and debugger)
+        run: ./node_modules/.bin/grunt build
+      - name: Deploy site to GitHub Pages
+        if: github.ref == 'refs/heads/master'
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          enable_jekyll: false
+          user_name: ${{ env.USER }}
+          user_email: ${{ env.EMAIL }}

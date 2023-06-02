@@ -1,7 +1,7 @@
 {
   "name": "D",
   "uniqueClass": "d",
-  "image": "/img/14.svg",
+  "image": "/jsonwebtoken.github.io/website/img/14.svg",
   "bgColor": "rgb(180, 65, 55)",
   "libs": [
     {

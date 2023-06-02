@@ -1,7 +1,7 @@
 {
   "name": "Dart",
   "uniqueClass": "dart",
-  "image": "/img/36.png",
+  "image": "/jsonwebtoken.github.io/website/img/36.png",
   "bgColor": "rgb(2, 89, 156)",
   "libs": [
     {

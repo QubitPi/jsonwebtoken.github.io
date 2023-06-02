@@ -27,7 +27,7 @@ Here's a commented example of the .NET language file (`0-.NET.json`). All fields
 
   // The language icon, SVG format preferred, should be placed
   // in /img directory.
-  "image": "/img/1.svg",
+  "image": "/jsonwebtoken.github.io/website/img/1.svg",
 
   // The color of header that displays the name of the language
   // and the icon. This is a valid CSS color definition.

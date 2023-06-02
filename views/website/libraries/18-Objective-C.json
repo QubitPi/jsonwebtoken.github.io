@@ -1,7 +1,7 @@
 {
   "name": "Objective-C",
   "uniqueClass": "objective-c",
-  "image": "/img/20.svg",
+  "image": "/jsonwebtoken.github.io/website/img/20.svg",
   "bgColor": "#aaaaaa",
   "libs": [
     {

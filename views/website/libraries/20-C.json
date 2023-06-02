@@ -1,7 +1,7 @@
 {
     "name": "C",
     "uniqueClass": "c",
-    "image": "/img/16.svg",
+    "image": "/jsonwebtoken.github.io/website/img/16.svg",
     "bgColor": "rgb(81, 128, 210)",
     "libs": [{
             "minimumVersion": null,

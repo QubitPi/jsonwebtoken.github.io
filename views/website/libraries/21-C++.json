@@ -1,7 +1,7 @@
 {
   "name": "C++",
   "uniqueClass": "cpp",
-  "image": "/img/26.svg",
+  "image": "/jsonwebtoken.github.io/website/img/26.svg",
   "bgColor": "rgb(0, 89, 156)",
   "libs": [
     {

@@ -1,7 +1,7 @@
 {
   "name": "OCaml",
   "uniqueClass": "ocaml",
-  "image": "/img/30.svg",
+  "image": "/jsonwebtoken.github.io/website/img/30.svg",
   "bgColor": "rgb(242, 145, 0)",
   "libs": [
     {

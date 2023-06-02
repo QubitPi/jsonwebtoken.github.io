@@ -1,7 +1,7 @@
 {
     "name": "CFML",
     "uniqueClass": "cfml",
-    "image": "/img/31.svg",
+    "image": "/jsonwebtoken.github.io/website/img/31.svg",
     "bgColor": "rgb(101,143,170)",
     "libs": [{
         "minimumVersion": "CF11",

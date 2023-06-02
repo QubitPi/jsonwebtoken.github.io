@@ -1,7 +1,7 @@
 {
   "name": "Erlang",
   "uniqueClass": "erlang",
-  "image": "/img/27.svg",
+  "image": "/jsonwebtoken.github.io/website/img/27.svg",
   "bgColor": "rgb(169, 5, 51)",
   "libs": [
     {

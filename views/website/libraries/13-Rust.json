@@ -1,7 +1,7 @@
 {
   "name": "Rust",
   "uniqueClass": "rust",
-  "image": "/img/10.svg",
+  "image": "/jsonwebtoken.github.io/website/img/10.svg",
   "bgColor": "rgb(129, 70, 38)",
   "libs": [
     {

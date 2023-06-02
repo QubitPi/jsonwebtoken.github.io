@@ -1,7 +1,7 @@
 {
   "name": "Java",
   "uniqueClass": "java",
-  "image": "/img/3.svg",
+  "image": "/jsonwebtoken.github.io/website/img/3.svg",
   "bgColor": "rgb(231, 111, 0)",
   "libs": [
     {

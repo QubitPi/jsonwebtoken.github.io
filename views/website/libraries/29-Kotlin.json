@@ -1,7 +1,7 @@
 {
   "name": "Kotlin",
   "uniqueClass": "kotlin",
-  "image": "/img/29.svg",
+  "image": "/jsonwebtoken.github.io/website/img/29.svg",
   "bgColor": "#f3750d",
   "libs": [
     {

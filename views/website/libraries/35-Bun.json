@@ -1,7 +1,7 @@
 {
   "name": "Bun",
   "uniqueClass": "bun",
-  "image": "/img/35.svg",
+  "image": "/jsonwebtoken.github.io/website/img/35.svg",
   "bgColor": "rgb(251, 240, 223)",
   "libs": [
     {
